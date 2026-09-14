@@ -15,7 +15,7 @@
 
 ---
 
-### Skills
+### Tech Stack
 
 <table width="100%">
 <tr>
