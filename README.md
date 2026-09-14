@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <b>Backend Engineer · 2.6 years experience · Bangkok, Thailand 🇹🇭</b><br/>
+  <b>Backend Engineer · 2.6 years experience · Bangkok, Thailand</b><br/>
   Building high-performance microservices with JavaScript & TypeScript. Passionate about latency, clean architecture, and scalable storage.
 </p>
 
