@@ -69,6 +69,7 @@
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
 <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303460/redis-logo.svg" width="36" height="36" alt="redis" /></a>
 <a href="https://blog.min.io/continuing-the-journey-our-new-mascot-and-wordmark/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/minio-1.svg" width="36" height="36" alt="minio" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/960px-Icons8_flat_linux.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20170610200026" width="36" height="36" alt="linux" /></a>
 </p>
 
 **Code Editors**
